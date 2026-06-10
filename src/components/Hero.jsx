@@ -3,10 +3,10 @@ export default function Hero() {
         <>
             <h5>Complete this training program if you want to...</h5>
             <ol className="benefits-list">
-                <li>Follow a simple program with guaranteed results</li>
-                <li>Get fit, healthy, strong and shredded</li>
-                <li>Learn more about gym, training and techique</li>
-                <li>Become a lifetime gym bro 😎 </li>
+                <li>Follow a simple and effective workout plan</li>
+                <li>Build strength, improve fitness, and feel healthier</li>
+                <li>Learn training techniques and exercise fundamentals</li>
+                <li>Create sustainable habits and make fitness part of your lifestyle 😉 </li>
             </ol>        
             <h3>The Rules</h3>
             <p>To complete this program, you <b>MUST</b> follow these 3 simple rules:</p>
