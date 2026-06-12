@@ -14,7 +14,7 @@ Live Demo: https://brogram-30-days-workout-program.netlify.app/
 * Browse and follow a 30-workout training plan
 * Modal overlays for detailed workout description
 * Font Awesome icons for a polished UI
-* Fast, lightweight SPA — no backend required
+* Fast, lightweight SPA 
 
 ## Tech Stack
 
@@ -67,6 +67,7 @@ http://localhost:5173
 
 ## Project Structure
 
+```text
 2_brogram/
 ├── public/          # Static assets (favicon, etc.)
 ├── src/             # React source code
@@ -74,7 +75,7 @@ http://localhost:5173
 ├── index.html       # HTML shell (includes modal portal)
 ├── vite.config.js   # Vite configuration
 └── eslint.config.js # ESLint configuration
-
+```
 
 ## Future Improvements
 
